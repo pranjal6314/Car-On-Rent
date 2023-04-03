@@ -1,4 +1,5 @@
-<div align='center'><img style="width:30%" src='https://user-images.githubusercontent.com/105128267/218077760-5694a4ac-4e37-4de7-b31f-268ccd27400a.png'/></div>
+<div align='center'><img style="width:30%" src='https://user-images.githubusercontent.com/77271332/229421412-6d48d891-3c41-410e-9277-8048e2e15a34.png'/></div>
+
 
 <h2>About the project</h2>
 
@@ -19,3 +20,5 @@
 <img src='https://user-images.githubusercontent.com/77271332/229421073-dab2fd3e-db5e-4352-a382-98bab452599b.png'/>
 
 </div>
+
+##By Pranjal
