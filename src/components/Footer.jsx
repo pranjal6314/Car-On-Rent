@@ -33,9 +33,9 @@ function Footer() {
                   style={{ fontSize: "14px" }}
                   target="_blank"
                   rel="noreferrer"
-                  href="https://xpeedstudio.com/"
+                // href="https://xpeedstudio.com/"
                 >
-                  Design by XpeedStudio
+                  Design by Pranjal
                 </a>
               </li>
             </ul>
@@ -78,6 +78,10 @@ function Footer() {
                 <button className="submit-email">Submit</button>
               </li>
             </ul>
+          </div>
+          <div style={{ margin: "10px", display: "flex", justifyContent: "center", alignItems: "center" }}>
+            <a href="https://github.com/pranjal6314" target="_blank" rel="noopener noreferrer" style={{ display: "inline-block", backgroundColor: " #4CAF50", color: "white", padding: "12px 24px", textAlign: "center", textDecoration: "none", fontSize: "16px", borderRadius: " 5px", border: "none", cursor: "pointer" }}>Visit My Github</a>
+
           </div>
         </div>
       </footer>

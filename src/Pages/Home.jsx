@@ -20,7 +20,7 @@ function Home() {
       <ChooseUs />
       <Testimonials />
       <Faq />
-      <Download />
+      {/* <Download /> */}
       <Footer />
     </>
   );
